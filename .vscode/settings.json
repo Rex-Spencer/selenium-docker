@@ -1,0 +1,12 @@
+{
+    "redhat.telemetry.enabled": false,
+    "java.configuration.runtimes": [
+        {
+        "name": "JavaSE-21",
+        "path": "/usr/bin/java",
+        "default": true
+        }
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
